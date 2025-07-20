@@ -1,0 +1,102 @@
+Medium Level C Programming Problems (201-300)
+
+201. Write a program to demonstrate call by reference using a pointer to swap two numbers.
+202. Write a program to input and print elements of an array using pointers.
+203. Write a program to calculate the sum of elements in an array using pointers.
+204. Write a program to find the largest element in an array using pointers.
+205. Write a program to reverse an array using pointers.
+206. Write a program to swap two strings using pointers.
+207. Write a program to compare two strings using pointers.
+208. Write a program to concatenate two strings using pointers.
+209. Write a program to copy one string to another using pointers.
+210. Write a program to calculate the length of a string using pointers.
+211. Write a program to implement Linear Search using pointers and functions.
+212. Write a program to implement Bubble Sort on an array using pointers.
+213. Write a program to count vowels and consonants in a string using pointers.
+214. Write a program to convert string case (uppercase/lowercase) using pointers.
+215. Write a program to dynamically allocate memory for an integer using malloc() and store a value.
+216. Write a program to dynamically allocate memory for an array of N integers using malloc().
+217. Write a program to resize dynamically allocated memory using realloc().
+218. Write a program to free dynamically allocated memory using free().
+219. Write a program to dynamically allocate memory for a string and read input.
+220. Write a program to implement a simple calculator using function pointers for operations.
+221. Define a struct for Point (x, y) and calculate distance between two points.
+222. Define a struct for Student (name, roll\_no, marks) and display details.
+223. Create an array of Student structures and print details for multiple students.
+224. Pass a Student structure to a function and modify its data.
+225. Define a struct for Time (hour, minute, second) and display current time.
+226. Define a struct for Date (day, month, year) and check if date is valid.
+227. Create a union that can store an integer, a float, or a character.
+228. Demonstrate the size difference between a struct and a union.
+229. Define an enum for days of the week and print the day name for a number.
+230. Use typedef to create aliases for int, float, and a Student structure.
+231. Write a program to write a single line of text to a file.
+232. Write a program to read a single line of text from a file.
+233. Write a program to write multiple lines of text to a file.
+234. Write a program to read the entire content of a text file.
+235. Write a program to append new content to an existing text file.
+236. Write a program to count the number of characters in a text file.
+237. Write a program to count the number of lines in a text file.
+238. Write a program to count the number of words in a text file.
+239. Write a program to copy the content of one text file to another.
+240. Write a program to read and write an array of integers to a binary file.
+241. Write a program to find the determinant of a 2x2 matrix.
+242. Write a program to perform matrix multiplication for 2x2 matrices.
+243. Write a program to sort an array using Insertion Sort.
+244. Write a program to implement Binary Search on a sorted array (iterative).
+245. Write a program to implement Binary Search on a sorted array (recursive).
+246. Write a program to find the frequency of a specific number in a sorted array.
+247. Write a program to check if an array is sorted in ascending order.
+248. Write a program to find the common elements between two arrays.
+249. Write a program to sort strings in an array in alphabetical order.
+250. Write a program to reverse each word in a string.
+251. Write a program to remove duplicate characters from a string.
+252. Write a program to check if two strings are anagrams of each other.
+253. Write a program to find the sum of all elements in a 2D array using pointer to array.
+254. Write a program to pass a 2D array to a function using pointer notation.
+255. Write a program to calculate the product of diagonal elements of a square matrix.
+256. Write a program to search for a specific word in a text file.
+257. Write a program to replace a specific word in a text file.
+258. Write a program to reverse the contents of a text file line by line.
+259. Write a program to find the factorial of a number using memoization (basic DP concept).
+260. Write a program to implement the selection sort using recursion.
+261. Write a program to find the maximum element in a 2D array.
+262. Write a program to check if a matrix is sparse.
+263. Write a program to check if a matrix is an identity matrix.
+264. Write a program to implement a simple game of "guess the number".
+265. Write a program to convert a string to an integer without atoi().
+266. Write a program to convert an integer to a string without itoa().
+267. Write a program to find the sum of all prime numbers up to N.
+268. Write a program to find the smallest missing positive integer in an array.
+269. Write a program to check if a number can be expressed as sum of two prime numbers.
+270. Write a program to find the first non-repeating character in a string.
+271. Write a program to remove all occurrences of a word from a string.
+272. Write a program to find the maximum occurring character in a string.
+273. Write a program to capitalize the first letter of each word in a string.
+274. Write a program to find the smallest number of notes for a given amount.
+275. Write a program to print a C-style string character by character using pointer arithmetic.
+276. Write a program to allocate memory for N student records (using struct and malloc).
+277. Write a program to read and print an array of structures dynamically.
+278. Write a program to sort an array of student structures by roll number.
+279. Write a program to implement a simple phonebook using an array of structures.
+280. Write a program to implement a queue using arrays (circular queue).
+281. Write a program to implement a stack using arrays.
+282. Write a program to evaluate a postfix expression (simple arithmetic operations).
+283. Write a program to convert an infix expression to postfix (simple).
+284. Write a program to perform addition of two numbers using command-line arguments.
+285. Write a program to count command-line arguments and print them.
+286. Write a program to demonstrate the use of const keyword with variables and pointers.
+287. Write a program to implement a simple "Rock, Paper, Scissors" game.
+288. Write a program to find the day of the week for a given date.
+289. Write a program to print a calendar for a given month and year.
+290. Write a program to implement a basic spell checker (simple dictionary comparison).
+291. Write a program to find the most frequent element in an array.
+292. Write a program to merge two sorted arrays.
+293. Write a program to find if two matrices are equal.
+294. Write a program to check if a matrix is an upper triangular matrix.
+295. Write a program to check if a matrix is a lower triangular matrix.
+296. Write a program to find the sum of rows and columns of a matrix and store in new arrays.
+297. Write a program to implement string reverse using recursion.
+298. Write a program to calculate nCr and nPr using functions.
+299. Write a program to find the second most frequent character in a string.
+300. Write a program to check if a substring exists in a string.
