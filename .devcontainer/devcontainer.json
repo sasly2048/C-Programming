@@ -1,0 +1,13 @@
+{
+  "name": "C Development",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-vscode.cpptools",
+    "danielpinto8zz6.c-cpp-compile-run"
+  ]
+}
